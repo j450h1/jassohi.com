@@ -1,0 +1,12 @@
+---
+title: "Top Clients"
+---
+
+Here are just a few of the enterprise clients I've built data science solutions for by collaborating with key stakeholders in their marketing departments:
+
+<ion-icon size="large" name="logo-google-outline"></ion-icon>
+
+<ion-icon size="large" name="logo-apple-outline"></ion-icon>
+
+<!--https://github.com/ionic-team/ionicons-->
+<script src="https://unpkg.com/ionicons@5.0.0/dist/ionicons.js"></script>
