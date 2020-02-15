@@ -1,5 +1,9 @@
 ---
 title: "Certifications"
+output: 
+  html_document:
+    includes:
+       in_header: google_analytics_tag.html
 ---
 
 Here are some recent certifications I've achieved:

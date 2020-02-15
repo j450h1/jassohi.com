@@ -1,5 +1,9 @@
 ---
 title: "Recent Projects"
+output: 
+  html_document:
+    includes:
+       in_header: google_analytics_tag.html
 ---
 
 Recent projects I've worked on have included:

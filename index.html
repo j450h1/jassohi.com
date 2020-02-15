@@ -24,6 +24,16 @@
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<!-- Followed this guide - https://stackoverflow.com/questions/41376989/how-to-include-google-analytics-in-an-rmarkdown-generated-github-page -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57229897-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-57229897-1');
+</script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -289,7 +299,7 @@ $(document).ready(function () {
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="contact.html">
+  <a href="mailto:jsohi@me.com">
     <span class="fa fa-envelope fa-lg"></span>
      
   </a>
@@ -326,35 +336,24 @@ $(document).ready(function () {
 </div>
 
 
-<p>Welcome to my redesigned website! It was built completely in RStudio and is hosted on GitHub.</p>
-<div id="r" class="section level2">
-<h2>R</h2>
+<link rel="stylesheet" href="styles.css" type="text/css"> <!--<img src="images/mountain.jpeg" style="height:25%; width:25%" align="top">-->
+<div>
+<p><img src="images/headshot.jpeg" style="width:25%; border:2px solid; margin-right: 20px" align="left"></p>
+<p>Welcome to my redesigned website! It was built completely using R (RStudio) and is hosted on GitHub.</p>
+<h3 id="programming-r---python---sql">Programming: R - Python - SQL</h3>
+<h3 id="google-cloud-certified">Google Cloud Certified</h3>
+<h3 id="predictive-modeling---data-driven-attribution---clusteringcustomer---customer-lifetime-value">Predictive Modeling - Data Driven Attribution - Clustering/Customer - Customer Lifetime Value</h3>
 </div>
-<div id="python" class="section level2">
-<h2>Python</h2>
-</div>
-<div id="sql" class="section level2">
-<h2>SQL</h2>
-</div>
-<div id="google-cloud-certified" class="section level2">
-<h2>Google Cloud Certified</h2>
-</div>
-<div id="predictive-modeling" class="section level2">
-<h2>Predictive Modeling</h2>
-</div>
-<div id="data-driven-attribution" class="section level2">
-<h2>Data Driven Attribution</h2>
-</div>
-<div id="clustering" class="section level2">
-<h2>Clustering</h2>
-<div id="r-1" class="section level3">
+<div>
+<hr>
+<div id="r" class="section level3">
 <h3>R</h3>
 <ul>
 <li>tidyverse</li>
-<li>ggplot2: <a href="images/ggplot2.jpg"><img src="images/ggplot2.jpg" width="250"/></a></li>
+<li>ggplot2: <a href="images/ggplot2.jpg"><img src="images/ggplot2.jpg" width="200" align="center"/></a></li>
 </ul>
 </div>
-<div id="python-1" class="section level3">
+<div id="python" class="section level3">
 <h3>Python</h3>
 <ul>
 <li>numpy</li>
@@ -370,14 +369,14 @@ $(document).ready(function () {
 <li>Linear and Logistic Regression</li>
 </ul>
 </div>
-<div id="sql-1" class="section level3">
+<div id="sql" class="section level3">
 <h3>SQL</h3>
 <ul>
 <li>Window functions</li>
 <li>Common Table Expressions</li>
 <li>BigQuery Standard SQL</li>
 </ul>
-<p>Have a look at my CV to learn more!</p>
+Have a look at my <a href="https://docs.google.com/document/d/140V8w_9ULxasPt1undqa-iB3GUzr14LRm5vrmcpMCF4/edit#heading=h.8v78y56onko">CV</a> to learn more!
 </div>
 </div>
 

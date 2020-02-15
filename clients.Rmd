@@ -1,5 +1,9 @@
 ---
 title: "Top Clients"
+output: 
+  html_document:
+    includes:
+       in_header: google_analytics_tag.html
 ---
 
 Here are just a few of the enterprise clients I've built data science solutions for by collaborating with key stakeholders in their marketing departments:

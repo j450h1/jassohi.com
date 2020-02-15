@@ -1,5 +1,9 @@
 ---
 title: "About Me"
+output: 
+  html_document:
+    includes:
+       in_header: google_analytics_tag.html
 ---
 
 Hi! I'm Jas like Jazz music!
@@ -8,6 +12,6 @@ I'm a Data Scientist working with cutting-edge technology and empowering my clie
 
 Previously, I've worked in Sales and Supply Chain departments for an e-commerce building supplies startup, BuildDirect.com where I helped build up the Inventory Department from the ground up. I graduated from Simon Fraser University with a BBA. However, I found my calling later in life as a Data Scientist when graduating from Udacity with a Nanodegree (part of the 1st ever cohort).
 
-I'm an R ninja (this website was fully  built in RStudio), a slick SQLer, and a Python pro. I'm a bit bashful about my brilliant bash scripting (I've made the switched to zsh which is z shi*.
+I'm an R ninja (this website was fully  built in RStudio), a slick SQLer, and a Python pro. I'm a bit bashful about my brilliant bash scripting (I've made recently made z-e-e switch to zsh which is z-e-e shi*.)
 
 On a more personal note, I'm an avid skier, hiker, and contribute code to several open source Github projects, most notably the googleAnalyticsR R package.

@@ -1,22 +1,29 @@
 ---
 title: "Jas Sohi - Data Scientist"
+output: 
+  html_document:
+    includes:
+       in_header: google_analytics_tag.html
 ---
 
-Welcome to my redesigned website! It was built completely in RStudio and is hosted on GitHub.
+<link rel="stylesheet" href="styles.css" type="text/css">
+<!--<img src="images/mountain.jpeg" style="height:25%; width:25%" align="top">-->
+<div>
+<img src="images/headshot.jpeg" style="width:25%; border:2px solid; margin-right: 20px" align="left">
 
-## R 
-## Python 
-## SQL 
-## Google Cloud Certified
+Welcome to my redesigned website! It was built completely using R (RStudio) and is hosted on GitHub.
 
-## Predictive Modeling 
-## Data Driven Attribution
-## Clustering
+### Programming:  R - Python - SQL 
+### Google Cloud Certified 
+### Predictive Modeling - Data Driven Attribution - Clustering/Customer - Customer Lifetime Value
+</div>
 
+<div>
+<hr>
 ### R
 
 * tidyverse 
-* ggplot2: [<img src="images/ggplot2.jpg" width="250"/>](images/ggplot2.jpg)
+* ggplot2: [<img src="images/ggplot2.jpg" width="200" align="center"/>](images/ggplot2.jpg)
 
 ### Python
 
@@ -36,4 +43,5 @@ Welcome to my redesigned website! It was built completely in RStudio and is host
 * Common Table Expressions
 * BigQuery Standard SQL
 
-Have a look at my CV to learn more! 
+Have a look at my [CV](https://docs.google.com/document/d/140V8w_9ULxasPt1undqa-iB3GUzr14LRm5vrmcpMCF4/edit#heading=h.8v78y56onko) to learn more! 
+</div>
