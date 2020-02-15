@@ -1,5 +1,39 @@
 ---
-title: "About me"
+title: "Jas Sohi - Data Scientist"
 ---
 
-A little more about my background ...
+Welcome to my redesigned website! It was built completely in RStudio and is hosted on GitHub.
+
+## R 
+## Python 
+## SQL 
+## Google Cloud Certified
+
+## Predictive Modeling 
+## Data Driven Attribution
+## Clustering
+
+### R
+
+* tidyverse 
+* ggplot2: [<img src="images/ggplot2.jpg" width="250"/>](images/ggplot2.jpg)
+
+### Python
+
+* numpy
+* pandas
+* sci-kit learn 
+
+### Modeling
+
+* Forecasting (time-series)
+* Machine Learning
+* Linear and Logistic Regression
+
+### SQL
+
+* Window functions
+* Common Table Expressions
+* BigQuery Standard SQL
+
+Have a look at my CV to learn more! 

@@ -1,0 +1,13 @@
+---
+title: "Certifications"
+---
+
+Here are some recent certifications I've achieved:
+
+* Google Cloud Data Engineer
+
+
+* Adobe Analytics Business Practitioner
+
+
+Also I've completed 50+ Data Science courses as per:

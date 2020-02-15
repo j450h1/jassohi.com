@@ -3,17 +3,17 @@ output_dir: "."
 navbar:
   title: "Jas Sohi - Data Scientist"
   left:
+    - text: "About Me"
+      href: about.html
     - text: "Top Clients"
       href: clients.html
-    - text: "Speaking"
-      href: talks.html
-    - text: "Programming"
-      href: software.html
-    - text: "Teaching"
-      href: teaching.html
+    - text: "Recent Projects"
+      href: projects.html
+    - text: "Certifications"
+      href: certifications.html
   right:
     - icon: fa-envelope fa-lg
-      href: contact.html
+      href: mailto:jsohi@me.com
     - icon: fa-github fa-lg
       href: http://github.com/j450h1
     - icon: fa-twitter fa-lg
