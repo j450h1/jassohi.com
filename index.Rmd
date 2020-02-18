@@ -22,8 +22,12 @@ Welcome to my redesigned website! It was built completely using R (RStudio) and 
 <hr>
 ### R
 
-* tidyverse 
-* ggplot2: [<img src="images/ggplot2.jpg" width="200" align="center"/>](images/ggplot2.jpg)
+* [**tidyverse**](https://www.tidyverse.org/):
+  * The tidyverse is an opinionated collection of R packages designed for data science. All packages share an underlying design philosophy, grammar, and data structures.
+
+* **ggplot2**: 
+  * An explanatory plot recently developed for a client forecasting their estimated data storage costs in [Google BigQuery](https://cloud.google.com/bigquery/)
+[<img src="images/ggplot2.jpg" width="200" align="center"/>](images/ggplot2.jpg)
 
 ### Python
 
