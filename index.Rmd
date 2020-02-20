@@ -8,18 +8,24 @@ output:
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 <!--<img src="images/mountain.jpeg" style="height:25%; width:25%" align="top">-->
-<div>
+
 <img src="images/headshot.jpeg" style="width:25%; border:2px solid; margin-right: 20px" align="left">
 
-Welcome to my redesigned website! It was built completely using R (RStudio) and is hosted on GitHub.
+Welcome to my redesigned website! It was built completely in R (RStudio) & is hosted on GitHub.
 
-### Programming:  R - Python - SQL 
-### Google Cloud Certified 
-### Predictive Modeling - Data Driven Attribution - Clustering/Customer - Customer Lifetime Value
+<div style="text-align: left">
+#### Programming:  R - Python - SQL - Shell (Bash)
+#### Google Cloud Certified 
+#### Modeling:
+##### Predictive Modeling - Data Driven Attribution
+##### Clustering - Customer Segmentation
+##### Customer Lifetime Value - Churn Prediction
 </div>
 
 <div>
+<br>
 <hr>
+
 ### R
 
 * [**tidyverse**](https://www.tidyverse.org/):
