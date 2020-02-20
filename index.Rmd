@@ -10,13 +10,12 @@ output:
 <!--<img src="images/mountain.jpeg" style="height:25%; width:25%" align="top">-->
 
 <img src="images/headshot.jpeg" style="width:25%; border:2px solid; margin-right: 20px" align="left">
-
+<hr>
 Welcome to my redesigned website! It was built completely in R (RStudio) & is hosted on GitHub.
 
 <div style="text-align: left">
 #### Programming:  R - Python - SQL - Shell (Bash)
 #### Google Cloud Certified 
-#### **Modeling:**
 ##### Predictive Modeling - Data Driven Attribution
 ##### Clustering - Customer Segmentation
 ##### Customer Lifetime Value - Churn Prediction
