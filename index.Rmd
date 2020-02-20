@@ -16,14 +16,14 @@ Welcome to my redesigned website! It was built completely in R (RStudio) & is ho
 <div style="text-align: left">
 #### Programming:  R - Python - SQL - Shell (Bash)
 #### Google Cloud Certified 
-#### Modeling:
+#### **Modeling:**
 ##### Predictive Modeling - Data Driven Attribution
 ##### Clustering - Customer Segmentation
 ##### Customer Lifetime Value - Churn Prediction
 </div>
 
 <div>
-<br>
+<!--<br>-->
 <hr>
 
 ### R
